@@ -13,6 +13,9 @@
 
 [![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br />
 
+<!-- ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/zahraboukthir/github-readme-stats)
+
 ### <samp>Skills </samp> :muscle:
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 

@@ -11,7 +11,7 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
 
-[![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/saifeddin1/github-readme-stats) <br />
+[![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br />
 
 ### <samp>Skills </samp> :muscle:
 

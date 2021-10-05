@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"> --> -->
 
-<a href="https://www.facebook.com/Zahra.Boukthir"><img alt="Facebook" src="https://img.shields.io/badge/facebook%20-%2314354C.svg-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.facebook.com/Zahra.Boukthir"><img alt="Facebook" src="https://img.shields.io/badge/facebook%20-%2314354C.svg-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/zahra-boukthir-748591185"><img alt="LinkedIn" src="https://img.shields.io/badge/zahra-boukthir%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%2314354C.svg-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%2314354C.svg-blue?style=flat-square&logo=twitter"></a>
  <a href="mailto:zahraboukthir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zahraboukth@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
 

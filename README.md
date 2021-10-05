@@ -1,6 +1,6 @@
 ### <samp>Hello, Everyone ! :grinning: </samp>
 
-### <h3> Skills: </h3>:muscle:
+### <samp> Skills: </samp>:muscle:
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/reactjs%20-%23092E20.svg?&style=for-the-badge&logo=reactjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -25,17 +25,6 @@
 ![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&theme=tokyonight&show_icons=true&hide=["issues"])<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=tokyonight&layout=compact)
 <h3> 🤝🏻 Find me on:</h3>
-<!-- <a href="https://www.facebook.com/Zahra.Boukthir" target="_blank">
-<img src="https://img.shields.io/badge/facebook%20-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white"/> -->
-<!-- </a><a href="https://www.linkedin.com/in/zahra-boukthir-748591185" target="_blank">
-<img src="https://img.shields.io/badge/linkedin%20-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> -->
-<!-- </a><a href="https://twitter.com/ZahraBoukthir" target="_blank">
-<img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-<!-- </a> -->
-<!-- <a href="mailto:zahraboukthir@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"> --> -->
-
 <a href="https://www.facebook.com/Zahra.Boukthir"><img alt="Facebook" src="https://img.shields.io/badge/facebook%20-%2314354C.svg-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/zahra-boukthir-748591185"><img alt="LinkedIn" src="https://img.shields.io/badge/zahra-boukthir%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%2314354C.svg-blue?style=flat-square&logo=twitter"></a>

@@ -8,8 +8,8 @@
 </a><a href="https://twitter.com/ZahraBoukthir" target="_blank">
 <img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="mailto:zahraboukthir@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
+<a href="mailto:zahraboukthir@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
 

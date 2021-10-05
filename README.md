@@ -1,8 +1,8 @@
 ### Hi Everyone !, I'm Zahra :grinning:,
 A Full Stack Web developer🎯  from Tunisia.
 - 👨‍💻 Full Stack MERN Developer
-- 💡 &nbsp;I like to explore new trends and learn new technologies.\
-- 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NodeJS</u></a>.\
+- 💡 &nbsp;I like to explore new trends and learn new technologies.
+- 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NodeJS</u></a>.
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 ###  Skills :muscle:
@@ -23,7 +23,7 @@ A Full Stack Web developer🎯  from Tunisia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br />
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p> -->
 <!-- [![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br /> -->
 
 <!-- ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl) -->
@@ -35,3 +35,7 @@ A Full Stack Web developer🎯  from Tunisia.
 <a href="https://www.linkedin.com/in/zahra-boukthir-748591185"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zahraboukthir-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zahraboukthir-blue?style=flat-square&logo=twitter"></a>
  <a href="mailto:zahraboukthir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="center"> 
+  You are visitor number: <br>
+  <img src="https://profile-counter.glitch.me/zahraboukthir/count.svg" />
+</p>

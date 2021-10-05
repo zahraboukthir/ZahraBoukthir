@@ -1,6 +1,9 @@
-### <samp>Hello, Everyone ! :grinning: </samp>
-
-### <samp> Skills: </samp>:muscle:
+### Hi Everyone !, I'm Zahra :grinning:,
+A Full Stack Web developer🎯  from Tunisia.
+- 👨‍💻 Full Stack MERN Developer
+- 📚 What do I believe? Jack of all, Master of some.
+- 📫 How to reach me: [FAcebook](https://www.facebook.com/Zahra.Boukthir)
+###  Skills :muscle:
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/reactjs%20-%23092E20.svg?&style=for-the-badge&logo=reactjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -18,15 +21,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
 <!-- [![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br /> -->
 
 <!-- ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/zahraboukthir/github-readme-stats)<br /> -->
 ![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&theme=tokyonight&show_icons=true&hide=["issues"])<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=tokyonight&layout=compact)
-<h3> 🤝🏻 Find me on:</h3>
+### 🤝🏻 Find me on:
 <a href="https://www.facebook.com/Zahra.Boukthir"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-zahraboukthir-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/zahra-boukthir-748591185"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zahraboukthir-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zahraboukthir-blue?style=flat-square&logo=twitter"></a>
  <a href="mailto:zahraboukthir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>

@@ -1,8 +1,10 @@
 ### Hi Everyone !, I'm Zahra :grinning:,
 A Full Stack Web developer🎯  from Tunisia.
 - 👨‍💻 Full Stack MERN Developer
+- 💡 &nbsp;I like to explore new trends and learn new technologies.\
+- 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NodeJS</u></a>.\
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [FAcebook](https://www.facebook.com/Zahra.Boukthir)
+- 📫 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 ###  Skills :muscle:
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/reactjs%20-%23092E20.svg?&style=for-the-badge&logo=reactjs&logoColor=white"/> 

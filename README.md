@@ -1,17 +1,22 @@
 ### <samp>Hello, Everyone ! :grinning: </samp>
 
 ### <samp> Find me on: </samp>
-<a href="https://www.facebook.com/Zahra.Boukthir" target="_blank">
-<img src="https://img.shields.io/badge/facebook%20-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/zahra-boukthir-748591185" target="_blank">
-<img src="https://img.shields.io/badge/linkedin%20-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://twitter.com/ZahraBoukthir" target="_blank">
+<!-- <a href="https://www.facebook.com/Zahra.Boukthir" target="_blank">
+<img src="https://img.shields.io/badge/facebook%20-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white"/> -->
+<!-- </a><a href="https://www.linkedin.com/in/zahra-boukthir-748591185" target="_blank">
+<img src="https://img.shields.io/badge/linkedin%20-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> -->
+<!-- </a><a href="https://twitter.com/ZahraBoukthir" target="_blank">
 <img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="mailto:zahraboukthir@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com?style=for-the-badge&logo=gmail&logoColor=white">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
+<!-- </a> -->
+<!-- <a href="mailto:zahraboukthir@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"> --> -->
+
+<a href="https://www.facebook.com/Zahra.Boukthir"><img alt="Facebook" src="https://img.shields.io/badge/facebook%20-%2314354C.svg-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/zahra-boukthir-748591185"><img alt="LinkedIn" src="https://img.shields.io/badge/zahra-boukthir%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%2314354C.svg-blue?style=flat-square&logo=linkedin"></a>
+ <a href="mailto:zahraboukthir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zahraboukth@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
 
 [![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br />
 

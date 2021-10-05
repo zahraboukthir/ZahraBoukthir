@@ -35,8 +35,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<br />
 [![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br />
 
 <!-- ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/zahraboukthir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/zahraboukthir/github-readme-stats)<br />
+![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&theme=tokyonight&show_icons=true&hide=["issues"])<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=tokyonight&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=zahraboukthir)

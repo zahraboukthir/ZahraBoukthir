@@ -17,12 +17,6 @@
   <a href="https://twitter.com/ZahraBoukthir"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%2314354C.svg-blue?style=flat-square&logo=twitter"></a>
  <a href="mailto:zahraboukthir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zahraboukth@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
-
-[![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br />
-
-<!-- ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/zahraboukthir/github-readme-stats)
-
 ### <samp>Skills </samp> :muscle:
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/reactjs%20-%23092E20.svg?&style=for-the-badge&logo=reactjs&logoColor=white"/> 
@@ -40,3 +34,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+[![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=zahraboukthir&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zahraboukthir/github-readme-stats) <br />
+
+<!-- ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/zahraboukthir/github-readme-stats)

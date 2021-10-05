@@ -1,13 +1,15 @@
 ### <samp>Hello, Everyone ! :grinning: </samp>
 
 ### <samp> Find me on: </samp>
-
 <a href="https://www.facebook.com/Zahra.Boukthir" target="_blank">
 <img src="https://img.shields.io/badge/facebook%20-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/zahra-boukthir-748591185" target="_blank">
 <img src="https://img.shields.io/badge/linkedin%20-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://twitter.com/ZahraBoukthir" target="_blank">
 <img src="https://img.shields.io/badge/twitter%20-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:zahraboukthir@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraboukthir" alt="Zahraboukthir" /> </p>
 

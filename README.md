@@ -62,15 +62,8 @@
 ---
 
 ## 🤝 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/zahra-boukthir-748591185">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25"/>
-  </a>
-  &nbsp;
-  <a href="mailto:zahraboukthir@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="25"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/zahra-boukthir-748591185"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zahraboukthir-blue?style=flat-square&logo=linkedin"></a>
+ <a href="mailto:zahraboukthir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ---

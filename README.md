@@ -65,7 +65,8 @@
 <h3 align="left"> 🛠️ Tech Stack:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahraboukthir&layout=compact&langs_count=8&theme=tokyonight" height="120"/>
-  &nbsp;
+  &nbsp;  <img src="https://github-readme-stats.vercel.app/api?username=zahraboukthir&theme=tokyonight&show_icons=true&hide=issues" alt="Zahra's GitHub Stats" />
+   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=zahraboukthir&theme=tokyonight" height="120"/>
 </p>
 ---
@@ -97,14 +98,6 @@
 </p>
 
 --- -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahraboukthir&theme=tokyonight&show_icons=true&hide=issues" alt="Zahra's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahraboukthir&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
 
 <!-- Optional: GitHub streak and snake animation
 <p align="center">

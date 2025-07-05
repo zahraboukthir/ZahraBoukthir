@@ -51,9 +51,9 @@ I'm a **Full Stack Web Developer** from Tunisia 🇹🇳, currently working as a
 <a href="https://www.linkedin.com/in/zahra-boukthir-748591185">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zahraboukthir-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://twitter.com/ZahraBoukthir">
+<!-- <a href="https://twitter.com/ZahraBoukthir">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ZahraBoukthir-blue?style=flat-square&logo=twitter">
-</a>
+</a> -->
 <a href="mailto:zahraboukthir@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-zahraboukthir@gmail.com-blue?style=flat-square&logo=gmail">
 </a>

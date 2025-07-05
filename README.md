@@ -1,3 +1,61 @@
+<h1 align="center">I'm Zahra Boukthir 👩‍💻</h1>
+
+<h2 align="center">Lead Developer | React & Node.js | Full Stack Developer</h2>
+<br>
+
+<p align="center">
+  <a href="https://www.google.com/search?q=zahra+boukthir+developer">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub!;Clean%20Code%20is%20My%20Craft%20💎;Lead%20Dev%20at%20Databiz%20🚀;Always%20Learning%20and%20Mentoring%20🌱&font=Bold%20Code&center=true&color=00BFFF&pause=2000" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zahraboukthir&style=flat&color=blueviolet" height="25" alt="Profile Views"/>
+</p>
+
+---
+
+<h3 align="left">📤 Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/zahra-boukthir-748591185">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  </a>&nbsp;
+  <a href="mailto:zahraboukthir@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="45"/>
+  </a>&nbsp;
+  <!-- Add more links if needed -->
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nodejs,express,mongodb,mysql,dynamodb,bootstrap,mui,git,python,figma,vite,vercel"/>
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=zahraboukthir&theme=onestar&row=1&column=7"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahraboukthir&layout=compact&langs_count=8&theme=tokyonight" height="120"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=zahraboukthir&theme=tokyonight" height="120"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+
 <h1 align="center">Hi there! I'm Zahra 😄</h1>
 
 <h3 align="center">🚀 Full Stack Developer | React & Node.js | Clean Code Advocate</h3>
